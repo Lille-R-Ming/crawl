@@ -1,0 +1,6 @@
+*.log
+*.temp
+*.class
+*.txt
+*/img/*
+*.jar
